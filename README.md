@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @joao-juchum
-
+João Pedro Juchum Chagas
