@@ -81,8 +81,6 @@ The project received **3rd Place in the Poster Competition at the IEEE SAC Norde
 
 I'm also exploring FPGA-based SoC development using LiteX as part of the development and study of a custom RISC-V processor.
 
-👉 [learning_litex_fpga](https://github.com/joao-juchum/learning_litex_fpga)
-
 ## 🎓 Education
 
 **B.Sc. in Electrical Engineering**  
